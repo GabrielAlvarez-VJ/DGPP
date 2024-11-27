@@ -1,5 +1,5 @@
 ## Terraria
-![Carátula del juego](terraria_screenshots/game_cover.jpg)
+![Carátula del juego](terraria_screenshots/game_cover.webp)
 
 **Género:** Acción-aventura, Sandbox
 
@@ -24,16 +24,16 @@
   - La progresión se logra a través de la creación de herramientas y armas más avanzadas, así como derrotar a jefes para desbloquear nuevas áreas y contenido.
   - A medida que se progresa existen distintas fases:
     - Pre-Hardmode: Es la fase inicial y mas sencilla.
-    - Hardome: Se desbloquea al matar a un jefe en el inframundo, haciendo que todo se vuelva más difícil, pero desbloqueando nuevo equipamiento
+    - Hardmode: Se desbloquea al matar a un jefe en el inframundo, haciendo que todo se vuelva más difícil, pero desbloqueando nuevo equipamiento
     - Post-Plantera: Se desbloquea al matar a un jefe en la jungla, desbloqueando mas contenido y pudiendo así ir al jefe final.
-    - Post-Moonlord: Se desbloqiea al matar al jefe final, en esta fase se desbloquea el equipamiento más poderoso y usualmente el jugador se dedica a otras cosas como la construcción o decoración.
+    - Post-Moonlord: Se desbloquea al matar al jefe final, en esta fase se desbloquea el equipamiento más poderoso y usualmente el jugador se dedica a otras cosas como la construcción o decoración.
 
 - **Vidas:**
   - Dependen del núcleo de tu personaje:
     - Viaje: Es el modo mas tranquilo, pues podrás duplicar objetos al llegar a una cuota requerida.
     - Clásico: El modo recomendado para los jugadores novatos, pues solo perderás la mitad de tu dinero.
     - Medio: En este modo no solo perderás todo tu dinero, que además soltarás todos tus items.
-    - Extremo: En este modo morirás por completo, convirtiendote en un fantasma, incapaz de afectar al mundo.
+    - Extremo: En este modo morirás por completo, convirtiéndote en un fantasma, incapaz de afectar al mundo.
   ![Selección de núcleo para el personaje](terraria_screenshots/cores.png)
 
 - **Enemigos y Obstáculos:**
@@ -56,7 +56,7 @@
   - Terraria también cuenta con un modo multijugador que permite a los jugadores colaborar o competir entre ellos en el mismo mundo.
   - Hay una rica variedad de eventos especiales, easter eggs y crossovers que mantienen el interés del jugador a lo largo del tiempo.
   ![Jefe del Don't Starve Together](terraria_screenshots/deerclops.png)
-  - Destaca su jugabilidad con mods gracias a su amplia comunidad. Esto se puede conseguir a traves de una apliación a parte en steam llamda "TModLoader".
+  - Destaca su jugabilidad con mods gracias a su amplia comunidad. Esto se puede conseguir a traves de una aplicación a parte en steam llamada "TModLoader".
   ![Carátula del TModLoader](terraria_screenshots/tmodloader.jpg)
   - Terraria es el primero juego de Steam en llegar a un millón de reviews, y lo mejor es que son extremadamente positivas.
   ![Reseñas del Terraria en Steam](terraria_screenshots/reviews.png)
