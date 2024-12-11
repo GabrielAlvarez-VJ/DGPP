@@ -6,6 +6,12 @@
 - **Imagen representativa**: ![Escena de carretera urbana con múltiples distracciones](images/urban_street.jpg)
 - **Desarrollador**: Wimsi Games (Gabriel Álvarez de Pablo) ![WimsiGames logo](images/WimsiGames/rounded_logo.png)
 
+
+## Índice de contenidos
+1. [Género y referencias](#género-y-referencias)
+2. [Cámara](#cámara)
+3. [Mecánicas](#mecánicas)
+
 ## Género y referencias
 - **Género principal**: Simulación de conducción.
 - **Subgéneros**: Educativo, arcade.
