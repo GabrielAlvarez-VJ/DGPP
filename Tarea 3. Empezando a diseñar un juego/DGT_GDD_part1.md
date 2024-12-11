@@ -11,7 +11,7 @@
 - **Subgéneros**: Educativo, arcade.
 - **Juegos de referencia**:
     - "SMS Racing": Por la utilización del móvil mientras se conduce.
-    - "Cities Skylines": Por la simulación de la ciudad. ñ
+    - "Cities Skylines": Por la simulación de la ciudad.
 - **Características únicas**: Sistema de "Medidor de aburrimiento" que aumenta con el tiempo y debe ser saciado con el móvil.
 
 ## Cámara
