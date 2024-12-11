@@ -2,9 +2,9 @@
 
 ## Portada
 - **Título del juego**: Distraction Disaster
-- **Logotipo**: [Imagen de un volante con un smartphone superpuesto]
-- **Imagen representativa**: [Escena de carretera urbana con múltiples distracciones]
-- **Desarrollador**: Wismy Studio (Gabriel Álvarez de Pablo)
+- **Logotipo**: ![Icono del juego](images/game_icon.jpg)
+- **Imagen representativa**: ![Escena de carretera urbana con múltiples distracciones](images/urban_street.jpg)
+- **Desarrollador**: Wimsi Games (Gabriel Álvarez de Pablo) ![WimsiGames logo](images/WimsiGames/rounded_logo.png)
 
 ## Índice de contenidos
 1. [Objetivos](#objetivos)
@@ -50,7 +50,7 @@
 - Personajes clave: El Protagonista, y "CHIP" (asistente de IA del coche).
 
 ## Aspectos relacionados con licencias
-- Propiedad intelectual: Wismy Studio es propietario de todos los derechos.
+- Propiedad intelectual: Wimsi Games es propietario de todos los derechos.
 - Colaboraciones: Asociaciones con organizaciones de seguridad vial para usar estadísticas y consejos reales.
 
 ## Controles
