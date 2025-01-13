@@ -8,29 +8,29 @@
 - **Fecha de última actualización**
 
 ## Índice de contenidos
-1. Objetivos
-2. Género y referencias
-3. Sinopsis de la historia
-4. Aspectos relacionados con licencias
-5. Controles
-6. Requisitos tecnológicos
-7. Señalética y diagramas de flujo
-8. Diseño de niveles
-9. Cámara
-10. Personajes
-11. Enemigos y jefes
-12. Personajes no jugables
-13. Armas
-14. Métricas del jugador
-15. Inventario
-16. Mecánicas
-17. Mecanismos
-18. Arte conceptual
-19. Narrativa y guión
-20. Monetización
-21. Contenido descargable
-22. Secuencias cinemáticas
-23. Música y sonido
+1. [Objetivos](#objetivos)
+2. [Género y referencias](#género-y-referencias)
+3. [Sinopsis de la historia](#sinopsis-de-la-historia)
+4. [Aspectos relacionados con licencias](#aspectos-relacionados-con-licencias)
+5. [Controles](#controles)
+6. [Requisitos tecnológicos](#requisitos-tecnológicos)
+7. [Señalética y diagramas de flujo](#señalética-y-diagramas-de-flujo)
+8. [Diseño de niveles](#diseño-de-niveles)
+9. [Cámara](#cámara)
+10. [Personajes](#personajes)
+11. [Enemigos y jefes](#enemigos-y-jefes)
+12. [Personajes no jugables](#personajes-no-jugables)
+13. [Armas](#armas)
+14. [Métricas del jugador](#métricas-del-jugador)
+15. [Inventario](#inventario)
+16. [Mecánicas](#mecánicas)
+17. [Mecanismos](#mecanismos)
+18. [Arte conceptual](#arte-conceptual)
+19. [Narrativa y guión](#narrativa-y-guión)
+20. [Monetización](#monetización)
+21. [Contenido descargable](#contenido-descargable)
+22. [Secuencias cinemáticas](#secuencias-cinemáticas)
+23. [Música y sonido](#música-y-sonido)
 
 ## Objetivos
 - Descripción breve del juego.
